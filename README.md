@@ -2,5 +2,5 @@
 
 Implementation of a perceptron algorithm from scratch in Python. In this repository you can find the next files:
 
-* Report
+* **A1 Report - VCaquilpan.pdf**: It includes the report of perceptron implementation 
 * Jupyter Notebook
